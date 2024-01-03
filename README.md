@@ -25,3 +25,11 @@ Iniciando curso de Orientação a Objeto com Java na Alura, este repositório te
 - Como representar textos em Java, utilizando a classe String;
 
 - A realizar casting de valores, para resolver situações de tipos incompatíveis no momento de realizar um cálculo ou atribuição de uma variável.
+
+## Resumo do 3° Módulo
+
+- A configurar uma aplicação para que ela escolha entre executar uma ação ou outra baseada em algum elemento;
+- Comparações para as condicionais: igual, diferente, maior, menor;
+- A usar a leitura do teclado com a classe Scanner;
+- Trabalhar com alternativas para as condicionais e escolher a ideal para o caso escolhido;
+- A utilizar estruturas de repetição com for e while.
