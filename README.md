@@ -33,3 +33,7 @@ Iniciando curso de Orientação a Objeto com Java na Alura, este repositório te
 - A usar a leitura do teclado com a classe Scanner;
 - Trabalhar com alternativas para as condicionais e escolher a ideal para o caso escolhido;
 - A utilizar estruturas de repetição com for e while.
+
+## Resumo do 4° Módulo
+
+- A aplicar seus conhecimentos em uma aplicação de um sistema bancário, utilizando conceitos de variáveis, condicionais, loops e leitura de dados no Java, juntamente à lógica de programação.
